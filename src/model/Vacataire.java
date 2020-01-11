@@ -1,5 +1,5 @@
 package model;
 
-public class Vacataire extends Enseignant{
-
+public class Vacataire extends Enseignant {
+	int charge;
 }
